@@ -1,4 +1,5 @@
 # Azure Provider source and version being used
+# Author : Chinmaya Kumar Padhi
 terraform {
   required_providers {
     azurerm = {
